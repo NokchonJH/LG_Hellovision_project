@@ -205,6 +205,9 @@ CatBoost : 카테고리형 피처를 자동으로 처리하고, 적은 튜닝으
 </div>
 </details>
 
+</div>
+</details>
+
 ## 🌿 프로젝트 결론
 
 - 다른 분류 모델에 피해 ROC AUC 지표가 가장 우수한 XGBoost를 기준으로 비정상을 예측함
