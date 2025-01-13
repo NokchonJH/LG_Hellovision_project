@@ -11,14 +11,14 @@ HV_project
 ├──📃avail_data.csv (원본데이터1 전처리)
 ├──📃data_with_lags.csv (원본데이터1 전처리)
 ├──📃filtered_data.csv (원본데이터1 전처리)
-|	├── 📁src 
-|	|	├── 📃EDA&preprocessing_df.ipynb (데이터 탐색 및 전처리)
-|	|	├── 📃Visualization.ipynb (데이터 시각화)
-|	|	├── 📃train.jpynb (모델링 수행 및 비교)
-|	|   ├── 📃prediction_temp.jpynb (모델을 통한 예측결과 확인)
-|	|   ├── 📃app.py (예측 결과 시각화 및 경고 알림)
-|	|   └── 📁 templates
-|	|   |            └── 📃index.html (실시간 예측 및 경고 시스템 웹)
+├── 📁src 
+|	├── 📃EDA&preprocessing_df.ipynb (데이터 탐색 및 전처리)
+|	├── 📃Visualization.ipynb (데이터 시각화)
+|	├── 📃train.jpynb (모델링 수행 및 비교)
+|       ├── 📃prediction_temp.jpynb (모델을 통한 예측결과 확인)
+|       ├── 📃app.py (예측 결과 시각화 및 경고 알림)
+|       └── 📁 templates
+|                └── 📃index.html (실시간 예측 및 경고 시스템 웹)
 ```
 
 
