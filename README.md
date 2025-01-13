@@ -11,6 +11,7 @@ HV_project
 ├──📃avail_data.csv (원본데이터1 전처리)
 ├──📃data_with_lags.csv (원본데이터1 전처리)
 ├──📃filtered_data.csv (원본데이터1 전처리)
+├──📃최종발표.pdf (최종발표 ppt)
 ├── 📁src 
 |	├── 📃EDA&preprocessing_df.ipynb (데이터 탐색 및 전처리)
 |	├── 📃Visualization.ipynb (데이터 시각화)
